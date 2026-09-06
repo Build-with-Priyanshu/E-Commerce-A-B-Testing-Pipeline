@@ -1,0 +1,8 @@
+Faker>=25,<40
+matplotlib>=3.8,<4
+numpy>=2,<3
+pandas>=2.2,<4
+PyMySQL[rsa]>=1.1,<2
+scipy>=1.13,<2
+SQLAlchemy>=2,<3
+streamlit>=1.40,<2
