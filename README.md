@@ -278,7 +278,7 @@ E-Commerce-A-B-Testing-Pipeline/
 ├── assets/                             # Generated charts and CSV summaries
 ├── run_pipeline.py                     # Runs all Python stages in order
 ├── requirements.txt                    # Python dependencies
-├── SETUP_MAC_MYSQL.md                  # Detailed Mac/MySQL setup guide
+├── SETUP_project_on_Mac.md                  # Detailed Mac/MySQL setup guide
 └── README.md
 ```
 
