@@ -343,7 +343,7 @@ python -m streamlit run dashboard/app.py
 ```
 
 For troubleshooting and detailed instructions, see
-[SETUP_MAC_MYSQL.md](SETUP_MAC_MYSQL.md).
+[SETUP_MAC_MYSQL.md](SETUP_Project_on_Mac.md).
 
 ---
 
