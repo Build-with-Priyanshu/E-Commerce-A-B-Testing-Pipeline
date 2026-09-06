@@ -1,0 +1,3 @@
+test_group,view_count,add_to_basket_count,checkout_count,purchase_count,conversion_rate,arpu
+A,5000,3928,2444,1555,0.6362,16.1322
+B,5000,3899,2441,1645,0.6739,17.4174
