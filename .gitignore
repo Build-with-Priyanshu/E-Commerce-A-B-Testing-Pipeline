@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.env
+*.log
+.DS_Store
+
+# Project specific
+*.ini
+!scripts/config.example.ini
+scripts/drop_all_tables.sql
+.venv/
+.streamlit/secrets.toml
